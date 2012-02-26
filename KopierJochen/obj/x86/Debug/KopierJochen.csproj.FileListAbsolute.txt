@@ -1,6 +1,0 @@
-N:\Fimen\Rauchentwicklung\KopierJochen\KopierJochen\bin\Debug\KopierJochen.exe.config
-N:\Fimen\Rauchentwicklung\KopierJochen\KopierJochen\bin\Debug\KopierJochen.exe
-N:\Fimen\Rauchentwicklung\KopierJochen\KopierJochen\bin\Debug\KopierJochen.pdb
-N:\Fimen\Rauchentwicklung\KopierJochen\KopierJochen\obj\x86\Debug\ResolveAssemblyReference.cache
-N:\Fimen\Rauchentwicklung\KopierJochen\KopierJochen\obj\x86\Debug\KopierJochen.exe
-N:\Fimen\Rauchentwicklung\KopierJochen\KopierJochen\obj\x86\Debug\KopierJochen.pdb
