@@ -18,7 +18,7 @@ namespace KopierJochen
             foreach (var aFile in referenceFiles.Where(_ => !notCompleteFiles.ContainsKey(_.Key)))
             {
                 Console.WriteLine(aFile.Key);
-                File.Copy(aFile.Value, alternateDirectory + aFile.Key);
+                File.Copy(aFile.Value, alternateDirectory + Path.DirectorySeparatorChar + aFile.Key);
             }
             Console.WriteLine("done");
             Console.ReadLine();
